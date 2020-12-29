@@ -18,8 +18,8 @@ const RoomJoinPage = (props) => {
                 error="error"
                 label="Code"
                 placeholder="Enter a Room Code"
-                value={}
-                helperText={}
+                value={0} // cannot be empty
+                helperText={0} // cannot be empty
                 variant="outlined"
                 />
             </Grid>
