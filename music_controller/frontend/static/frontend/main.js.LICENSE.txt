@@ -542,6 +542,8 @@
 
 /*! other exports [not provided] [no usage info] */
 
+/*! runtime requirements:  */
+
 /*! runtime requirements: __webpack_exports__ */
 
 /*! runtime requirements: __webpack_exports__, __webpack_require__ */
@@ -577,6 +579,10 @@
 /*!*******************************!*\
   !*** ./src/components/App.js ***!
   \*******************************/
+
+/*!********************************!*\
+  !*** ./src/components/Room.js ***!
+  \********************************/
 
 /*!************************************!*\
   !*** ./src/components/HomePage.js ***!
